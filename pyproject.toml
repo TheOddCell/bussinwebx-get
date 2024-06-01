@@ -1,10 +1,6 @@
 [project]
-version = "1.0.0"
+version = "1.0.1"
 name = "bussinwebx-get"
-dependencies = [
-  "requests",
-  "json"
-]
 requires-python = ">= 3.8"
 maintainers = [
   {name = "The Odd Cell"}
