@@ -1,5 +1,5 @@
 [project]
-dynamic = ["version"]
+version = "1.0.0"
 name = "bussinwebx-get"
 dependencies = [
   "requests",
