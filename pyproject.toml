@@ -16,9 +16,7 @@ keywords = ["webx", "buss", "facedev"]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
   "Intended Audience :: Developers",
-  "Topic :: API",
   "License :: OSI Approved :: MIT License",
-  "Programming Language :: Python",
 ]
 [project.urls]
 Repository = "https://github.com/TheOddCell/bussinwebx-get.git"
