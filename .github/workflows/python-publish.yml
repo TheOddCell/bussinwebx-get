@@ -10,8 +10,10 @@ name: Upload Python Package
 
 on:
   release:
-    types: [published, released]
-    workflow_dispatch:
+    types: 
+      - published
+      - released
+  workflow_dispatch:
 
 permissions:
   contents: read
