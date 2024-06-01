@@ -1,6 +1,6 @@
 [project]
 dynamic = ["version"]
-name = "bussinwebx-get"
+name = "bussinwebx_get"
 dependencies = [
   "requests",
   "json"
