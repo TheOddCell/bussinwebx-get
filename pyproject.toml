@@ -14,7 +14,7 @@ readme = "README.md"
 license = {text = "MIT License"}
 keywords = ["webx", "buss", "facedev"]
 classifiers = [
-  "Development Status :: 5 - Stable",
+  "Development Status :: 5 - Production/Stable",
   "Intended Audience :: Developers",
   "Topic :: API",
   "License :: OSI Approved :: MIT License",
