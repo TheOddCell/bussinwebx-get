@@ -1,6 +1,6 @@
 [project]
 version = "1.0.5"
-name = "bussinwebx-get"
+name = "bussinwebx_get"
 requires-python = ">= 3.8"
 maintainers = [
   {name = "The Odd Cell"}
