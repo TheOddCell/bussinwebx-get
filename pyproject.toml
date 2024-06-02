@@ -1,5 +1,5 @@
 [project]
-dynamic = ["version"]
+version = "1.0.5"
 name = "bussinwebx-get"
 requires-python = ">= 3.8"
 maintainers = [
