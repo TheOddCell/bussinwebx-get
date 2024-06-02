@@ -1,7 +1,7 @@
 import requests
 import json
 
-def gettld(domain, tld):
+def getip(domain, tld):
     """
     Gets IP/github root of a BUSS/webx domain.
     
@@ -34,7 +34,7 @@ def get(domain: str, tld: str, path="/"):
     Returns:
     requests.Response: the HTTP request.
     """
-    bussip = gettld(domain, tld)
+    bussip = getip(domain, tld)
     if bussip.startswith("https://github.com"):
         raw_url = bussip.replace("https://github.com/", "https://raw.githubusercontent.com/")
         parts = raw_url.split('/')
